@@ -2,7 +2,7 @@
 An example of creating .pyt file (python toolbox) for ArcGIS for Desktop using arcpy  
 
 ## Video Lesson: 
-[![Demo](https://img.youtube.com/vi/7lCzqXcnEGY/0.jpg)](https://www.youtube.com/watch?v=7lCzqXcnEGY&list=PLbozJClxFQYVb3-f4Age1Wldd0YrGPNUS&index=13) 
+[![Demo](https://img.youtube.com/vi/7lCzqXcnEGY/0.jpg)](https://www.youtube.com/watch?v=7lCzqXcnEGY&list=PLbozJClxFQYVb3-f4Age1Wldd0YrGPNUS) 
 
 # Dependencies  
 You need to have arcpy library on your computer
