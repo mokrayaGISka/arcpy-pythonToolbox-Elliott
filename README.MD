@@ -13,4 +13,4 @@ Parameters types for arctoolboxes - https://pro.arcgis.com/ru/pro-app/arcpy/geop
 
 Python in ArcGIS - https://www.youtube.com/watch?v=UK8d8lOLRuM&list=PLbozJClxFQYVb3-f4Age1Wldd0YrGPNUS  
 
-Введение в arpcy - https://www.youtube.com/watch?v=u320Z6SCxdc&list=PLbozJClxFQYVb3-f4Age1Wldd0YrGPNUS&index=2
+Introduction to arpcy - https://www.youtube.com/watch?v=u320Z6SCxdc&list=PLbozJClxFQYVb3-f4Age1Wldd0YrGPNUS&index=2
